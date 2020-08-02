@@ -9,7 +9,7 @@ The objective is to cover as much of the ground as you can with paint. To view t
 ## Instructions
 Use your mouse to look around and <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> keys on your keyboard to move forward, left, backward and right respectively. 
 
-* To cover the ground in paint onto the ground, use the Left Mouse Button
+* To fire paint onto the ground, use the Left Mouse Button
 * To calculate the approximate area covered by the paint, press the <kbd>E</kbd> key
 
 ## Running the scene
