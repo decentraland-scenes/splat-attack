@@ -4,7 +4,7 @@ _demo of splat-attack scene running in preview._
 ![demo](https://github.com/decentraland-scenes/splat-attack/blob/master/screenshots/splat-attack.gif)
 
 ## Description
-The objective is to cover as much of the ground with paint. To view the scene, please visit [here](https://splat-attack.vercel.app/).
+The objective is to cover as much of the ground as you can with paint. To view the scene, please visit [here](https://splat-attack.vercel.app/).
 
 ## Instructions
 Use your mouse to look around and <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> keys on your keyboard to move forward, left, backward and right respectively. 
