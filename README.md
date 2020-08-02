@@ -10,7 +10,7 @@ The objective is to cover as much of the ground with paint. To view the scene, p
 Use your mouse to look around and <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> keys on your keyboard to move forward, left, backward and right respectively. 
 
 * To cover the ground in paint onto the ground, use the Left Mouse Button
-* To calculate the approximate area covered by the paint press the <kbd>E</kbd> key
+* To calculate the approximate area covered by the paint, press the <kbd>E</kbd> key
 
 ## Running the scene
 After you clone the project, run the following:
