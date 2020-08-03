@@ -86,10 +86,10 @@ text.value = "Press 'E' to Calculate Area"
 input.subscribe("BUTTON_DOWN", ActionButton.PRIMARY, false, () => {
   let areaCoveredText = calculateArea()
   if(areaCoveredText) {
-    text.value = `Press 'E' to Recalculate\nArea Covered: ${areaCoveredText.toFixed(2)}m`
+    text.value = `Press 'E' to Recalculate\nArea Covered: ${areaCoveredText.toFixed(2)}m²`
   } else {
-    text.value = "Press 'E' to Recalculate\nArea Covered: 0m"
+    text.value = "Press 'E' to Recalculate\nArea Covered: 0m²"
   }
   log("Calculating...")
-  log(`Approximated Area Covered: ${areaCoveredText}m`)
+  log(`Approximated Area Covered: ${areaCoveredText}m²`)
 })
