@@ -7,9 +7,9 @@ _demo of splat-attack scene running in preview._
 The objective is to cover as much of the ground as you can with paint. To view the scene, please visit [here](https://splat-attack.vercel.app/).
 
 ## Instructions
-Use your mouse to look around and <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> keys on your keyboard to move forward, left, backward and right respectively. To jump, press the <kdb>Space</kdb> key.
+Use your mouse to look around and <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> keys on your keyboard to move forward, left, backward and right respectively. To jump, press the <kbd>Space</kbd> key.
 
-* To fire paint onto the ground, use the <kdb>Left Mouse Button</kdb>
+* To fire paint onto the ground, use the <kbd>Left Mouse Button</kbd>
 * To calculate the approximate area covered by the paint, press the <kbd>E</kbd> key
 
 ## Running the scene
