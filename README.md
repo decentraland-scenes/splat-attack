@@ -12,18 +12,24 @@ The objective is to cover as much of the ground as you can with paint. To view t
 * To fire paint onto the ground, use the <kbd>Left Mouse Button</kbd>.
 * To calculate the approximate area covered by the paint, press the <kbd>E</kbd> key.
 
-## Running the scene
-After you clone the project, run the following:
+## Try it out
+
+**Install the CLI**
+
+Download and install the Decentraland CLI by running the following command:
 
 ```
 $ npm i -g decentraland
 ```
 
-Followed by:
+**Previewing the scene**
+
+Download this example and navigate to its directory, then run:
 
 ```
-$ dcl start
+$  dcl start
 ```
+
 ## Acknowledgements
 Adapted from the grid sampling solution version 4 to the total circles area problem found [here](https://rosettacode.org/wiki/Total_circles_area#Grid_Sampling_Version_4).
 
